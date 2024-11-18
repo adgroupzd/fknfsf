@@ -1,0 +1,4 @@
+pyTelegramBotAPI
+python-telegram-bot
+nest_asyncio
+Flask
